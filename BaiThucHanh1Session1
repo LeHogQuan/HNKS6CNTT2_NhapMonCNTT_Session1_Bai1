@@ -1,0 +1,8 @@
+
+1. - Sai phần 1000 ảnh 
+phép tính 1000 ảnh nhân 4 mb = 4 gb là sai
+2. sai vì 1gb = 1024mb chú không phải 1000mb
+3. 4 x 1000= 4000mb -> 4000mb : 1024mb = ~3,91gb
+4. dung lượng còn lại khoảng 256gb-3,91-40gb-100gb=~112,09
+5. nếu lưu thêm 500 bài hát 5mb/bài thì vẫn đủ vì: 5x500=2500mb -> 2500mb : 1024mb = ~2,44gb
+Mà dung lượng còn 112,09 -> 112,09-2,44=~109,65gb
